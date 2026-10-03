@@ -7,15 +7,15 @@ import {
 } from "../components/policy/policy-shell";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Owners Plus",
+  title: "Privacy Policy | Owners",
   description:
-    "Privacy Policy for Owners Plus personal and business financial management app.",
+    "Privacy Policy for the Owners mobile application and Owners Plus financial platform.",
 };
 
 const sections = [
   [
     "Introduction",
-    "Welcome to Owners Plus. We built the app around a simple idea: owning your finances should feel clear, private, and practical. This policy explains what information we collect, why we use it, and the choices you have.",
+    "Welcome to Owners (also referred to as Owners Plus). We built the app around a simple idea: owning your finances should feel clear, private, and practical. This Privacy Policy applies to the Owners mobile application (com.appbakery.owner) and our related services. This policy explains what information we collect, why we use it, and the choices you have.",
   ],
   [
     "Information we collect",
