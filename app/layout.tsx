@@ -4,8 +4,9 @@ import "./landing.css";
 import "./policy.css";
 
 export const metadata: Metadata = {
-  title: "FidelityPlus",
-  description: "AI-powered personal and business finance landing page",
+  title: "Owners Plus | Own Your Finances",
+  description:
+    "Own your finances and make better, smart financial decisions with Owners Plus personal and business budgeting.",
 };
 
 export default function RootLayout({
